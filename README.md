@@ -15,11 +15,11 @@ Microsoft Excel (Excel functions, Pivot Tables & charts).
 ## Key Business Questions Answered
 
 Analytical Questions Raised
-	1.	Why does the North East outperform other regions so significantly?
-	2.	What factors make 3002C and 3002P the highest-performing models?
-	3.	Why are certain product models underperforming?
-	4.	How can sales be improved during holidays and non-workdays?
-	5.	Should more resources be allocated to top-performing regions and models?
+> 		Why does the North East outperform other regions so significantly?
+> 		What factors make 3002C and 3002P the highest-performing models?
+> 		Why are certain product models underperforming?
+> 		How can sales be improved during holidays and non-workdays?
+> 		Should more resources be allocated to top-performing regions and models?
 
 ## Findings
 
