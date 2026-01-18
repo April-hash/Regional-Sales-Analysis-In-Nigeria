@@ -10,7 +10,7 @@ This analysis comprises of sales of different products in all regions of Nigeria
 The objective is to understand what drives revenue, where sales are strongest, and which products perform best. 
 
 ## Tool Used
-Microsoft Excel (Excel functions, Pivot Tables & charts).
+Microsoft Excel (Pivot Tables & charts).
 
 ## Key Business Questions Answered
 
