@@ -15,40 +15,50 @@ Microsoft Excel (Pivot Tables & charts).
 ## Key Business Questions Answered
 
 Analytical Questions Raised
-> 		Why does the North East outperform other regions so significantly?
-> 		What factors make 3002C and 3002P the highest-performing models?
-> 		Why are certain product models underperforming?
-> 		How can sales be improved during holidays and non-workdays?
-> 		Should more resources be allocated to top-performing regions and models?
+>     Which product models sell the most units, and which perform poorly?
+>     Which regions generate the highest product demand?
+>     Which regions contribute the most to total revenue?
+>     How do sales vary across workdays, holidays, and special observance days?
 
 ## Findings
 
 1. Product Model Performance
->     Models 3002C and 3002P generate the highest revenue.
->     Several models (e.g., 2500C, 2500P) contribute minimally.
->     Revenue is highly concentrated in a small number of models.
+   
+Top-performing models:
+>     •	3002C and 3002P record the highest unit sales, indicating strong market demand.
+>     •	5001C also performs well, suggesting consistent customer preference.
+Low-performing models:
+>     •	2500C and 4500P have the lowest unit sales, indicating weaker demand or limited market acceptance.
+Insight:
+>     •	Customers prefer mid-range or service-related models over older or niche products.
 
 
 
 2. Regional Sales Performance
->     North East is the top-performing region.
->     South West and South South also show strong revenue.
->     North Central records the lowest performance.
+> 	  •	North Central leads in total units sold, making it the strongest sales region.
+> 	  •	North East and South West also show strong performance.
+> 	  •	North West records the lowest units sold, indicating weaker market penetration.
+Insight:
+> 	  •	Sales performance varies significantly by region, likely influenced by population density, store presence, or economic activity.
+
+3. Revenue Distribution
+>     •	North East generates the highest revenue, even though it does not sell the most units.
+> 	  •	South West and South South also contribute significantly to total revenue.
+> 	  •	North Central, despite high unit sales, does not generate the highest revenue.
+Insight:
+> 	  •	Some regions sell higher-value products, not just higher quantities.
 
 
-3. Day Category Impact
-> 		Workdays dominate sales revenue.
-> 		Public holidays, local holidays, and observance days contribute very little.
-> 		Sales depend heavily on normal business operations.
 
-
-
-4. Revenue Distribution
-> 		Revenue is unevenly distributed across regions and products.
-> 		High-performing regions and products drive overall sales results. 
+4. Day Categort Impact
+>     •	Workdays account for the vast majority of unit sales.
+> 	  •	Public holidays show moderate sales activity.
+> 	  •	Local holidays and observance days record very low sales.
+Insight:
+> 	  •	Customer purchasing behavior is strongly tied to normal business days.
 
 ## Conclusion
-> The analysis shows that sales performance is driven primarily by specific regions, high-performing product models, and workday transactions. While a few areas and products generate most of the revenue, others underperform significantly. This presents opportunities for strategic focus, product optimization, and targeted regional growth.
+> The analysis shows that sales performance is mainly driven by a few high-performing products, strong regional differences, and higher activity on workdays. While some regions sell more units, others generate more revenue due to higher-value products. Focusing on top products, optimizing regional strategies, and prioritizing workday sales will improve overall business performance.
 
 <img width="335" height="207" alt="image" src="https://github.com/user-attachments/assets/4f27f708-9da3-4cea-9329-6aad1a5e670d" />
 <img width="332" height="204" alt="image" src="https://github.com/user-attachments/assets/def2c625-ce3e-4355-9633-9eefb6b05ee3" />
