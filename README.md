@@ -2,7 +2,7 @@
 This analysis comprises of sales of different products in all regions of Nigeria. Excel was the only tool used for this analysis 
 
 ## Description
-> This Excel work on regional sales analysis in Nigeria, a case study aims to analyze sales unit and model and revenue to generate insights that can guide potential revenue. Key features are: Clean Dashboard, Pivot tables, and Visual charts to support business decision making.
+> This Excel work on regional sales analysis in Nigeria, a case study aims to analyze sales unit, model and revenue to generate insights that can guide potential revenue. Key features are: Clean Dashboard, Pivot tables, and Visual charts to support business decision making.
 
 ## Project Overview
 > This project analyzes a structured sales dataset to uncover insights related to regional performance, product models, store activity, and sales timing. Microsoft Excel     was used for data cleaning, Pivot Tables, and dashboard visualization.
